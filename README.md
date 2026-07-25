@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0217-contains-duplicate) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
