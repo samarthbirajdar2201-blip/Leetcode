@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0414-third-maximum-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
