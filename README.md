@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0796-rotate-string) |
+| [1768-merge-strings-alternately](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/samarthbirajdar2201-blip/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
