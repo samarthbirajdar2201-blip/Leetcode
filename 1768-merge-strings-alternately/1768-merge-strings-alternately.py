@@ -1,12 +1,5 @@
+from itertools import zip_longest
+
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        result = []
-        n, m = len(word1), len(word2)
-
-        for i in range(max(n, m)):
-            if i < n:
-                result.append(word1[i])
-            if i < m:
-                result.append(word2[i])
-
-        return "".join(result)
+        return "".join(a + b for a, b in zip_longest(word1, word2, fillvalue=""))
